@@ -50,5 +50,4 @@ THREADS = 20     # Количество потоков
 [DEAD] MTV (Status: 404)
 [ERROR] Eurosport (Timeout/Error)
 
-Лицензия:
-MIT License
+
